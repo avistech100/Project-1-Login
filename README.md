@@ -14,7 +14,6 @@ This project implements a simple login page with two login options:
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
 
 ## Setup Instructions
 1. Clone the repository.
